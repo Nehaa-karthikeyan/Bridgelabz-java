@@ -77,6 +77,9 @@ Gave my review in the object oriented concept and started with linked list progr
 # 21st January 2026
 I completed the linked list programs,stack,queue,hashmap program and then pushed them into git.
 
+# 22nd January 2026
+I completed Algorithm's Runtime Analysis & Big-O Notation and pushed it into the git hub ans studied singley linked list and doubley linked list.
+
 
 
 
